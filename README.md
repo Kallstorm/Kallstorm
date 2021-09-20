@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kallstorm
-- 👀 I’m interested in Web Developement 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning basics of HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ...
